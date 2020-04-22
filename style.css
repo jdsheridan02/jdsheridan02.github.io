@@ -51,3 +51,9 @@ a:link {
     width: 30%;
     line-height: 150%;
 }
+
+footer {
+    text-align: center;
+    padding: 20px;
+    clear: both;
+}
